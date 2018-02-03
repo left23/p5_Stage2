@@ -7,4 +7,4 @@ When receiving midi input, midi data from two channels is printed to the canvas 
 Circles are drawn on mouse click and mouse press too.
 Updating is dependent on channel. Preparing for external data with 'countries' placeholders.
 
-![p5 Stage2](https://saturdaycodersamsterdam.github.io/p5_Stage2.png)
+![p5 Stage1 screenshot](p5_Stage1.png)
